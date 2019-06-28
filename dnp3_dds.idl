@@ -1,0 +1,6 @@
+struct dnp3data{
+	float current;
+	float voltage;
+	float power;
+	float frequency;
+};
